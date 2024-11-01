@@ -1,4 +1,5 @@
 This is a collection of Ethereum Method signatures. It can be used to get the text-signatures from hex-signatures (with 4-bytes - hence the name)
+#By Mudassir Alam
 
 A real world example:
 ```
